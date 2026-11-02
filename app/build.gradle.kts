@@ -46,7 +46,7 @@ dependencies {
     implementation("com.squareup.retrofit2:converter-gson:2.11.0")
 
     //corrutinas para trabajo asincronico
-    implementation("org.jetbrains.kotlin:kotlinx-coroutines-android:1.8.0")
+    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.8.0")
 
     implementation(platform(libs.androidx.compose.bom))
     implementation(libs.androidx.activity.compose)
